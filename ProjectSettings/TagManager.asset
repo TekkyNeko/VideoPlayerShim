@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Custom0
+  - Custom1
+  - Custom2
+  - Custom3
+  - Custom4
+  - Custom5
+  - Custom6
+  - Custom7
+  - Custom8
+  - Custom9
+  - Custom10
+  - Custom11
+  - Custom12
+  - Custom13
+  - Custom14
+  - Custom15
+  - Custom16
+  - Custom17
+  - Custom18
+  - Custom19
+  - Custom20
+  - Custom21
+  - Custom22
+  - Custom23
+  - Custom24
+  - Custom25
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactable
+  - PlayerStranger
+  - PlayerFriend
+  - PlayerLocal
+  - PlayerSelection
+  - Application
+  - PVRUI
+  - Reserved1
+  - Reserved2
+  - Reserved3
+  - Reserved4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

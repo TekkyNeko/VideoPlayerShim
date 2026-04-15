@@ -1,0 +1,16 @@
+{
+    "name": "Pokeduel.VideoPlayerShim",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3ca842002c51d0a43b73e45298809a13"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

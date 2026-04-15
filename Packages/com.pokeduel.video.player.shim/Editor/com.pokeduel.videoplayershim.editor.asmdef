@@ -1,0 +1,19 @@
+{
+    "name": "com.pokeduel.videoplayershim.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9e0da4530ea6a5d4db3cf4d2baa093c0",
+        "GUID:3ca842002c51d0a43b73e45298809a13"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

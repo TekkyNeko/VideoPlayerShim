@@ -97,3 +97,18 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/Assets/PVRCCK Examples
+Assets/PVRCCK Examples.meta
+/Packages/com.poligonvr.core
+/Packages/com.poligonvr.dynamics
+/Packages/com.poligonvr.psharp
+/Packages/com.poligonvr.worlds
+Assets/AVProVideo.meta
+/Assets/AVProVideo
+Assets/StreamingAssets.meta
+/Assets/StreamingAssets
+PSharpExposure.json
+Assets/TextMesh Pro.meta
+/Assets/TextMesh Pro
+/Assets/PSharp Programs
+Assets/PSharp Programs.meta
